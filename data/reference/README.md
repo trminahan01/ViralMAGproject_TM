@@ -1,16 +1,17 @@
 # README.md `reference`
 
-This folder would contain data downloaded from other sources, and not generated directly during the project, for example:
+All Bioinformatics was performed in Kbase. The narrative is linked here:
+https://narrative.kbase.us/narrative/211358#
 
-- NCBI sequence files
-- transcriptome data from GEO
-- data generated in a different project
+The reference databases used in this project were:
 
-Different categories of data, or data from different sources might be stored in suitably-named subfolders, e.g.
+  Virus reference database from Kaiju
 
-```bash
-.
-├── README.md
-├── ncbi_genomes
-└── rcsb_structures
-```
+  Prokaryotic Viral RefSeq version 85 with ICTV-only taxonomy
+
+  Virome DB
+
+  Prokaryotic Viral RefSeq version 201 with ICTV and NCBI taxonomies
+
+  
+
